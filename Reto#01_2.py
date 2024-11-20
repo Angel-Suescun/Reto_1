@@ -1,5 +1,5 @@
 """
-Crea una función que recibe una palabra y retorna un valor booleano
+Creé una función que recibe una palabra y retorna un valor booleano
 que indica si la palabra es un palíndromo o no. La función convierte
 la palabra a minúsculas para evitar errores al comparar letras
 mayúsculas y minúsculas. Luego, utiliza un ciclo 'for' para iterar
