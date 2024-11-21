@@ -1,5 +1,5 @@
 """
-Desarrolle el ejercicio creando una función que reciba como argumentos
+Desarrollé el ejercicio creando una función que reciba como argumentos
 los números y la operación que se desea realizar. Se utiliza la estructura
 de control 'match', la cual permite evaluar el valor de una variable y
 ejecutar el bloque de código correspondiente sin necesidad de utilizar
