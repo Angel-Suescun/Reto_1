@@ -3,7 +3,7 @@ Programación Orientada a Objetos - UNAL-Reto #01
 
 ## Punto 1
 
-- Desarrolle el ejercicio creando una función que reciba como argumentos los números y la operación que se desea realizar. Se utiliza la estructura de control 'match', la cual permite evaluar el valor de una variable y ejecutar el bloque de código correspondiente sin necesidad de utilizar una cadena de sentencias 'if'.
+- Desarrollé el ejercicio creando una función que reciba como argumentos los números y la operación que se desea realizar. Se utiliza la estructura de control 'match', la cual permite evaluar el valor de una variable y ejecutar el bloque de código correspondiente sin necesidad de utilizar una cadena de sentencias 'if'.
 
 - Además, se manejan posibles errores en el código, como entradas inválidas o intentos de dividir por cero.
 ```python
