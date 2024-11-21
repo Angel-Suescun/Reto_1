@@ -23,6 +23,25 @@ def calculator(number1: int, number2: int, operation: str) -> float:
         case _:
             return "Operación inválida"
 
+
+number1 = int(input("Ingrese el primer número: "))
+number2 = int(input("Ingrese el segundo número: "))
+operation = input(
+    "Ingrese la operación (Suma: +, Resta: -, Multiplicación: *, División: /): "
+)
+
+if operation not in ["+", "-", "*", "/"]:
+    print("Operación no válida")
+else:
+    print(
+        f"La operación {number1}{operation}{number2} da como resultado: "
+        f"{calculator(number1, number2, operation)}"
+    )
+
+
+
+
+
 ```
 
 ## Punto 2
